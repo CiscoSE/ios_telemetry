@@ -1,0 +1,12 @@
+# Virtual Environements
+venv/
+
+# IDE Artifacts
+*.code-workspace
+.vscode
+
+# Exclude Certifcates
+CA_BUNDLES/
+
+# Python Artifacts
+__pycache__
