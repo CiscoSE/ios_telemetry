@@ -3,7 +3,7 @@ cffi==1.14.3
 colorama==0.4.3
 commonmark==0.9.1
 cryptography==39.0.1
-Jinja2==2.11.3
+Jinja2==3.1.6
 lxml==6.1.0
 MarkupSafe==1.1.1
 ncclient==0.6.9
