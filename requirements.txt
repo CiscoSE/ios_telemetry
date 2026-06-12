@@ -7,7 +7,7 @@ Jinja2==3.1.6
 lxml==6.1.0
 MarkupSafe==1.1.1
 ncclient==0.6.9
-paramiko==2.10.1
+paramiko==5.0.0
 pycparser==2.20
 Pygments==2.20.0
 PyNaCl==1.6.2
